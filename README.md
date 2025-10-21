@@ -7,6 +7,7 @@ This repository contains company assets for website, code, images, and branding.
 | File / Folder       | License                     | Notes |
 |--------------------|-----------------------------|-------|
 | `musit_studio_logo.svg`          | All Rights Reserved         | Company logo — use requires written permission |
+| `musit_studio_logo.png`          | All Rights Reserved         | Company logo — use requires written permission |
 
 ### How to Get Permission for Logo
 Contact: creative-permissions@musit.studio
