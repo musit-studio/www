@@ -6,11 +6,11 @@ This repository contains company assets for website, code, images, and branding.
 
 | File / Folder       | License                     | Notes |
 |--------------------|-----------------------------|-------|
-| `musit_studio_logo_logo.svg`          | All Rights Reserved         | Company logo — use requires written permission |
+| `musit_studio_logo.svg`          | All Rights Reserved         | Company logo — use requires written permission |
 
 ### How to Get Permission for Logo
 Contact: creative-permissions@musit.studio
 
 ### Notes
 - Individual files may have embedded license headers for clarity.
-- GitHub Releases can be used for versioned distribution of ‘musit_studio_logo_logo.svg’ or other key assets.
+- GitHub Releases can be used for versioned distribution of ‘musit_studio_logo.svg’ or other key assets.
